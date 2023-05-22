@@ -1,0 +1,4 @@
+github.com/FragLand/minestat/Go/minestat v0.0.0-20230514023320-f909690a5903 h1:2OmOqKJL72qxD24Jlf/VRK4lCPUWTOb1Lj8BpzgGnME=
+github.com/FragLand/minestat/Go/minestat v0.0.0-20230514023320-f909690a5903/go.mod h1:RPBeoyC44C5v1nUCAMJ/ljAAGWpDcm/FrGm5VOL1//0=
+golang.org/x/text v0.6.0 h1:3XmdazWV+ubf7QgHSTWeykHOci5oeekaGJBLkrkaw4k=
+golang.org/x/text v0.6.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
